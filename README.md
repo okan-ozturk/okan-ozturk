@@ -24,4 +24,4 @@ Here are some ideas to get you started:
     </a>
   </p>
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=okan-ozturk&show_icons=true&include_all_commits=true&theme=dracula&border_radius=20" alt="GitHub Readme Stats Themes" width=500px"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=okan-ozturk" alt="GitHub Readme Stats Themes" width=500px"/>
